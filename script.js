@@ -7,6 +7,7 @@ const perguntas = [
     "Pergunta 1",
     "Pergunta 2"
 ];
+
 const perguntas = [
     enunciado: "Pergunta 1",
     alternativas: [
@@ -16,6 +17,7 @@ const perguntas = [
 
     "Pergunta 2"
 ];
+
 const perguntas = [
     {
         enunciado: "Pergunta 1",
@@ -26,6 +28,7 @@ const perguntas = [
     }
     "Pergunta 2"
 ]; 
+
 const perguntas = [
     {
         enunciado: "Pergunta 1",
